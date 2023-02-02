@@ -21,14 +21,17 @@ Nostr – новый и непривычный, но в то же время о�
 * [nostr.directory](https://nostr.directory/) — поиск людей из Twitter
 
 # 📱 Клиенты:
+
 ## 🕸️ Web
 * [nostr.rocks](https://nostr.rocks/)
 * [astral.ninja](https://astral.ninja/)
 * [snort.social](https://snort.social/)
 * [yosup.app](https://yosup.app/)
+
 ## 🤖 Android
 * [Amethyst](https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst&hl=en)
 * [Daisy](https://neb.lol/nostr) (APK)
+
 ## 🍏 iOS
 * [Damus](https://damus.io/)
 * [Daisy](https://neb.lol/nostr)
