@@ -48,4 +48,7 @@ Nostr – новый и непривычный, но в то же время о�
 
 ***
 
-Все о Биткоине: [21ideas.org](https://www.21ideas.org/)
+Биткоин-онли ресурсы: 
+* Web: [21ideas.org](https://www.21ideas.org/)
+* Telegram: [t.me/bitcoin21ideas](https://t.me/bitcoin21ideas)
+* YouTube: [@21ideas](https://www.youtube.com/@21ideas/)
