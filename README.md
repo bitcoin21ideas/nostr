@@ -14,18 +14,22 @@ Nostr – новый и непривычный, но в то же время о�
 * Он не зависит от какого-либо доверенного центрального сервера, поэтому он устойчив к цензуре.
 * Он основан на криптографических ключах и подписях, поэтому он устойчива к взлому.
 # 📚 Ресурсы:
-* nostr.net — лист проектов Nostr
-* nostr-resources.com — ресурс Gigi
-* uselessshit.co/resources/nostr — F.A.Q.
-* nostr.directory — поиск людей из Twitter
+* [nostr.net](https://www.nostr.net/) — лист проектов Nostr
+* [nostr-resources.com](https://nostr-resources.com/) — ресурс Gigi, послуживший основой для [nostr.21ideas.org](https://nostr.21ideas.org/)
+* [uselessshit.co/resources/nostr](https://uselessshit.co/resources/nostr/) — F.A.Q.
+* [nostr.directory](https://nostr.directory/) — поиск людей из Twitter
 # 📱 Клиенты:
-* nostr.rocks (web)
-* astral.ninja (web)
-* snort.social (web)
-* yosup.app (web)
-* Damus (iOS)
+## 🕸️ Web
+* [nostr.rocks](https://nostr.rocks/)
+* astral.ninja
+* snort.social
+* yosup.app
+## 🤖 Android
 * Amethyst
-* Daisy (пока только APK, также есть на iOS)
+* Daisy (APK)
+## 🍏 iOS
+* Damus (iOS)
+* Daisy
 # 📥 Обозреватели релеев:
 * nostr.watch/relays/find
 * nostr.info/relays/
