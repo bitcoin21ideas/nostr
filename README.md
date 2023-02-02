@@ -46,4 +46,6 @@ Nostr – новый и непривычный, но в то же время о�
 * [nostr.watch/relays/find](nostr.watch/relays/find)
 * [nostr.info/relays/](nostr.info/relays/)
 
+***
+
 Все о Биткоине: [21ideas.org](https://www.21ideas.org/)
