@@ -4,5 +4,5 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: [Страничка-кормушка кота биткоинера]
-description: [Здесь питается Мишин голод]
+title: [Nostr-библиотека]
+description: [Всеобъемлющий русскоязычный ресурс, посвященный протоколу Nostr]
