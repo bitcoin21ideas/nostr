@@ -133,3 +133,7 @@ Nostr – новый и непривычный, но в то же время о�
 ⚡️21ideas@getalby.con
 ![LNURL_QR](https://github.com/bitcoin21ideas/nostr/blob/main/images/LNURL%20QR.png?raw=true)
 `LNURL1DP68GURN8GHJ7MR9VAJKUEPWD3HXY6T5WVHXXMMD9AKXUATJD3CZ7KN409PRX3SL5GSK5`
+
+***
+
+![purple_bitcoin](https://github.com/bitcoin21ideas/nostr/blob/4a7975167a0da202b8439f8b0f5addd915d7aab0/images/photo_2023-02-03%2014.50.43.jpeg?raw=true)
