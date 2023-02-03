@@ -8,9 +8,10 @@
 
 ## Оглавление:
 1. [Базовая информация](https://nostr.21ideas.org#-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
-2. [Ресурсы](https://nostr.21ideas.org#-%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B)
+2. [Ключи](https://nostr.21ideas.org#%EF%B8%8F-%D0%BA%D0%BB%D1%8E%D1%87%D0%B8)
 3. [Клиенты](https://nostr.21ideas.org#-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%8B)
-4. [Обозреватели релеев](https://nostr.21ideas.org#-%D0%BE%D0%B1%D0%BE%D0%B7%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D1%80%D0%B5%D0%BB%D0%B5%D0%B5%D0%B2)
+4. [Ресурсы](https://nostr.21ideas.org#-%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B)
+6. [Обозреватели релеев](https://nostr.21ideas.org#-%D0%BE%D0%B1%D0%BE%D0%B7%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D1%80%D0%B5%D0%BB%D0%B5%D0%B5%D0%B2)
 
 ![Nostriches everywhere](https://raw.githubusercontent.com/bitcoin21ideas/nostr/main/images/photo_2023-02-02%2011.14.55.jpeg)
 
@@ -66,19 +67,19 @@ Nostr – новый и непривычный, но в то же время о�
 * [Damus](https://damus.io/)
 * [Daisy](https://neb.lol/nostr)
 
-# 📚 Ресурсы:
+# 📚 Ресурсы
 * [nostr.net](https://www.nostr.net/) — лист проектов Nostr
 * [nostr-resources.com](https://nostr-resources.com/) — ресурс Gigi, послуживший основой для [nostr.21ideas.org](https://nostr.21ideas.org/)
 * [uselessshit.co/resources/nostr](https://uselessshit.co/resources/nostr/) — F.A.Q.
 * [nostr.directory](https://nostr.directory/) — поиск людей из Twitter
 
-# 📥 Обозреватели релеев:
+# 📥 Обозреватели релеев
 * [nostr.watch/relays/find](nostr.watch/relays/find)
 * [nostr.info/relays/](nostr.info/relays/)
 
 ***
 
-Биткоин-онли ресурсы: 
+## 💡 Биткоин-онли ресурсы: 
 * Web: [21ideas.org](https://www.21ideas.org/)
 * Telegram: [t.me/bitcoin21ideas](https://t.me/bitcoin21ideas)
 * YouTube: [@21ideas](https://www.youtube.com/@21ideas/)
