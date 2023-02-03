@@ -1,10 +1,10 @@
-Библиотека основана на ресурсах сообщества, и поддерживается основателями проектов [21 идея](https://www.21ideas.org/) и [Биткоин абстракцион](https://t.me/bitraction).
-
-> Подписывайся на нас в любимом Nostr-клиенте:
-> 
-> @Tony - `npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7`
-> 
-> @almoo - `npub1zvvv8fm7w2ngwdyszg3y6zgp6vwqlht8zrr8wcmjaxjecrvpjfwsd0zs7w`
+> Библиотека основана на ресурсах сообщества, и поддерживается основателями проектов [21 идея](https://www.21ideas.org/) и [Биткоин абстракцион](https://t.me/bitraction).
+>
+>> Подписывайся на нас в любимом Nostr-клиенте:
+>> 
+>> @Tony - `npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7`
+>> 
+>> @almoo - `npub1zvvv8fm7w2ngwdyszg3y6zgp6vwqlht8zrr8wcmjaxjecrvpjfwsd0zs7w`
 
 ## Оглавление:
 1. [Базовая информация](https://nostr.21ideas.org#-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
