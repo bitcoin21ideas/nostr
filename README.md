@@ -132,10 +132,10 @@ Nostr – новый и непривычный, но в то же время о�
 
 ### *ОТСКАНИРУЙ QR-КОД И УКАЖИ СУММУ (В САТАХ), КОТОРУЮ ХОЧЕШЬ ЗАДОНАТИТЬ*
 
-![LNURL_QR](https://github.com/bitcoin21ideas/nostr/blob/main/images/LNURL%20QR.png?raw=true)
+![LNURL_QR](https://github.com/bitcoin21ideas/nostr/blob/main/images/lnurl%20qr%20nostr%20resources.png?raw=true)
 
 ### *ИЛИ СКОПИРУЙ ЭТОТ LNURL В СВОЙ КОШЕЛЕК*
-`LNURL1DP68GURN8GHJ7MR9VAJKUEPWD3HXY6T5WVHXXMMD9AKXUATJD3CZ7KN409PRX3SL5GSK5`
+`LNURL1DP68GURN8GHJ7MR9VAJKUEPWD3HXY6T5WVHXXMMD9AKXUATJD3CZ7MTZ0958X7SPWSK7T`
 
 ### *ИЛИ ОТПРАВЬ САТЫ НА ЛН-АДРЕС*
 `⚡️21ideas@getalby.com`
