@@ -10,7 +10,7 @@
 2. [Ключи](https://nostr.21ideas.org#%EF%B8%8F-%D0%BA%D0%BB%D1%8E%D1%87%D0%B8)
 3. [Клиенты](https://nostr.21ideas.org#-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%8B)
 6. [Обозреватели релеев](https://nostr.21ideas.org#-%D0%BE%D0%B1%D0%BE%D0%B7%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D1%80%D0%B5%D0%BB%D0%B5%D0%B5%D0%B2)
-7. 4. [Ресурсы](https://nostr.21ideas.org#-%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B)
+7. [Дополнительные ресурсы](https://nostr.21ideas.org#-%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B)
 8. [Биткоин-онли ресурсы](https://nostr.21ideas.org#-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D0%BE%D0%BD%D0%BB%D0%B8-%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B)
 
 ![Nostriches everywhere](https://raw.githubusercontent.com/bitcoin21ideas/nostr/main/images/photo_2023-02-02%2011.14.55.jpeg)
