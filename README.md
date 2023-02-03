@@ -1,5 +1,5 @@
-> Библиотека основана на ресурсах сообщества, и поддерживается основателями проектов [21 идея](https://www.21ideas.org/) и [Биткоин абстракцион](https://t.me/bitraction). Подписывайся на нас в любимом Nostr-клиенте:
->> 
+> Библиотека основана на ресурсах сообщества, и поддерживается основателями проектов [21 идея](https://www.21ideas.org/) и [Биткоин абстракцион](https://t.me/bitraction). 
+> Подписывайся на нас в любимом Nostr-клиенте:
 >> @Tony - `npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7`
 >> 
 >> @almoo - `npub1zvvv8fm7w2ngwdyszg3y6zgp6vwqlht8zrr8wcmjaxjecrvpjfwsd0zs7w`
