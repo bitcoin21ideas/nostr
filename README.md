@@ -130,8 +130,9 @@ Nostr – новый и непривычный, но в то же время о�
 # 🍩 Поддержи проект
 Материал оказался полезен? Купи нам пару баночек пива 🍻 через сеть Lightning⚡️
 
-⚡️21ideas@getalby.con
+⚡️21ideas@getalby.com
 ![LNURL_QR](https://github.com/bitcoin21ideas/nostr/blob/main/images/LNURL%20QR.png?raw=true)
+
 `LNURL1DP68GURN8GHJ7MR9VAJKUEPWD3HXY6T5WVHXXMMD9AKXUATJD3CZ7KN409PRX3SL5GSK5`
 
 ***
