@@ -109,9 +109,9 @@ Nostr – новый и непривычный, но в то же время о�
 ***
 
 # 📚 Ресурсы
-* [nostr.net](https://www.nostr.net/) — лист проектов Nostr
+* [nostr.net](https://www.nostr.net/) — список проектов Nostr
 * [nostr-resources.com](https://nostr-resources.com/) — ресурс Gigi, послуживший основой для [nostr.21ideas.org](https://nostr.21ideas.org/)
-* [uselessshit.co/resources/nostr](https://uselessshit.co/resources/nostr/) — F.A.Q.
+* [uselessshit.co](https://uselessshit.co/resources/nostr/) — F.A.Q.
 * [nostr.directory](https://nostr.directory/) — поиск людей из Twitter
 
 ***
