@@ -1,16 +1,16 @@
 Библиотека основана на ресурсах сообщества, и поддерживается основателями проектов [21 идея](https://www.21ideas.org/) и [Биткоин абстракцион](https://t.me/bitraction).
 
-> Подписывайся на нас в любимом Nostr-приложении:
+> Подписывайся на нас в любимом Nostr-клиенте:
 > 
 > @Tony - `npub10awzknjg5r5lajnr53438ndcyjylgqsrnrtq5grs495v42qc6awsj45ys7`
 > 
 > @almoo - `npub1zvvv8fm7w2ngwdyszg3y6zgp6vwqlht8zrr8wcmjaxjecrvpjfwsd0zs7w`
 
 ## Оглавление:
-- [Базовая информация](https://nostr.21ideas.org#-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
-- [Ресурсы](https://nostr.21ideas.org#-%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B)
-- [Клиенты](https://nostr.21ideas.org#-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%8B)
-- [Обозреватели релеев](https://nostr.21ideas.org#-%D0%BE%D0%B1%D0%BE%D0%B7%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D1%80%D0%B5%D0%BB%D0%B5%D0%B5%D0%B2)
+1. [Базовая информация](https://nostr.21ideas.org#-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
+2. [Ресурсы](https://nostr.21ideas.org#-%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B)
+3. [Клиенты](https://nostr.21ideas.org#-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%8B)
+4. [Обозреватели релеев](https://nostr.21ideas.org#-%D0%BE%D0%B1%D0%BE%D0%B7%D1%80%D0%B5%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8-%D1%80%D0%B5%D0%BB%D0%B5%D0%B5%D0%B2)
 
 ![Nostriches everywhere](https://raw.githubusercontent.com/bitcoin21ideas/nostr/main/images/photo_2023-02-02%2011.14.55.jpeg)
 
