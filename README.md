@@ -144,4 +144,4 @@ Nostr – новый и непривычный, но в то же время о�
 
 ***
 
-![purple_bitcoin](https://github.com/bitcoin21ideas/nostr/blob/4a7975167a0da202b8439f8b0f5addd915d7aab0/images/photo_2023-02-03%2014.50.43.jpeg?raw=true)
+![purple_bitcoin](https://github.com/bitcoin21ideas/nostr/blob/main/images/censorship%20resistant%20SM.png?raw=true)
