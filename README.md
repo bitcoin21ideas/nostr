@@ -15,7 +15,7 @@
 7. [Биткоин-онли ресурсы](https://nostr.21ideas.org#-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D0%BE%D0%BD%D0%BB%D0%B8-%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B)
 
 ![Nostriches everywhere](https://raw.githubusercontent.com/bitcoin21ideas/nostr/main/images/photo_2023-02-02%2011.14.55.jpeg)
-*Изображение украдено у Егора Петрова (публичный ключ: `npub1z4m7gkva6yxgvdyclc7zp0vz4ta0s2d9jh8g83w03tp5vdf3kzdsxana6p`)
+*Изображение украдено у Егора Петрова (публичный ключ: `npub1z4m7gkva6yxgvdyclc7zp0vz4ta0s2d9jh8g83w03tp5vdf3kzdsxana6p`)*
 
 # 💊 Базовая информация
 ## ✌️ В двух словах:
