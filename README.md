@@ -15,6 +15,13 @@
 7. [Инструменты](https://nostr.21ideas.org#%EF%B8%8F-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)
 8. [Дополнительные ресурсы](https://nostr.21ideas.org#-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B)
 9. [Создание и настройка профиля Nostr](https://nostr.21ideas.org#-c%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F-nostr)
+ - [Генерация ключей](https://nostr.21ideas.org#%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B9)
+ - [Выбор клиента](https://nostr.21ideas.org#%D0%B2%D1%8B%D0%B1%D0%BE%D1%80-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%B0)
+ - [Подключение к релеям](https://nostr.21ideas.org#%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA-%D1%80%D0%B5%D0%BB%D0%B5%D1%8F%D0%BC)
+ - [Настройка профиля](https://nostr.21ideas.org#%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F)
+ - [Загрузка изображений](https://nostr.21ideas.org#%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9)
+ - [NIP-05 Верификация](https://nostr.21ideas.org#nip-05-%D0%B2%D0%B5%D1%80%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F)
+ - [Поиск людей](https://nostr.21ideas.org#%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D0%BB%D1%8E%D0%B4%D0%B5%D0%B9)
 10. [Биткоин-онли ресурсы](https://nostr.21ideas.org#-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD-%D0%BE%D0%BD%D0%BB%D0%B8-%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D1%8B)
 11. [Поддержать проект](https://nostr.21ideas.org#-%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82)
 
@@ -171,43 +178,45 @@ Nostr не ограничивается социальными сетями, в�
 
 Чтобы сделать все **еще проще**, можете использовать несколько из отобранных мной адресов:
 
-wss://brb.io
+* wss://brb.io
 
-wss://eden.nostr.land
+* wss://eden.nostr.land
 
-wss://no.str.cr
+* wss://no.str.cr
 
-wss://relayer.fiatjaf.com
+* wss://relayer.fiatjaf.com
 
-wss://rsslay.fiatjaf.com
+* wss://rsslay.fiatjaf.com
 
-wss://expensive-relay.fiatjaf.com
+* wss://expensive-relay.fiatjaf.com
 
-wss://nostr.zebeedee.cloud
+* wss://nostr.zebeedee.cloud
 
-wss://nostr-2.zebeedee.cloud
+* wss://nostr-2.zebeedee.cloud
 
-wss://nostr.bitcoiner.social
+* wss://nostr.bitcoiner.social
 
-wss://nostr.mom
+* wss://nostr.mom
 
-wss://nostr.orangepill.dev
+* wss://nostr.orangepill.dev
 
-wss://nostr.rocks
+* wss://nostr.rocks
 
-wss://relay.damus.io
+* wss://relay.damus.io
 
-wss://nostr.walletofsatoshi.com
+* wss://nostr.walletofsatoshi.com
 
-wss://relay.nostr.info
+* wss://relay.nostr.info
 
-wss://relay.snort.social
+* wss://relay.snort.social
 
 Также релеи можно взять в профилях других пользователей, они обычно находятся в графе Relays
 
 ![Relays-list](https://telegra.ph/file/15145ffda8b1baff7bd86.png)
-
+```
 На странице пользователя можно найти релеи, к которым он подключен
+```
+
 На скриншоте выше показаны релеи, к которым подключен @almoo.
 Подписывайтесь и смотрите, а так же пишите ваши вопросы по гиду нам в личные сообщения.
 
