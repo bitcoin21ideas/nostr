@@ -5,7 +5,7 @@
 >> 
 >> @almoo - `npub1zvvv8fm7w2ngwdyszg3y6zgp6vwqlht8zrr8wcmjaxjecrvpjfwsd0zs7w`
 
-### Все, что нужно знать о Биткоине: [https://21ideas.org/](https://21ideas.org/)
+#### *Все, что нужно знать о Биткоине: [https://21ideas.org/](https://21ideas.org/)*
 
 ## Оглавление:
 1. [Что такое Nostr?](https://nostr.21ideas.org#-%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-nostr)
@@ -32,7 +32,7 @@
 
 ***
 
-#### Отличным дополнением к этому ресурсу будет [этот гид по связке из браузерного расширения Alby и веб-клиента Nostrgram](https://www.21ideas.org/practical-alby-and-nostr/).
+#### *Отличным дополнением к этому ресурсу будет [этот гид по связке из браузерного расширения Alby и веб-клиента Nostrgram](https://www.21ideas.org/practical-alby-and-nostr/).*
 
 ***
 
